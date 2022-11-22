@@ -1,7 +1,7 @@
-<!-- Zphisher -->
+<!-- nP3sh1r -->
 
 <p align="center">
-  <img src=".github/misc/logo.png">
+  <a href="https://ibb.co/Vm3QnKC"><img src="https://i.ibb.co/Vm3QnKC/Screenshot-2022-11-22-09-57-27.png" alt="Screenshot-2022-11-22-09-57-27" border="0"></a>
 </p>
 
 <p align="center">
