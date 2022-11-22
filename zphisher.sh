@@ -3,7 +3,7 @@
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	TAHMID RAYAT 
 ##   Version 	: 	2.3.4
-##   Github 	: 	https://github.com/pass-git/nP3sh1r
+##   Github 	: 	https://github.com/htr-tech/zphisher
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
@@ -204,28 +204,26 @@ check_status() {
 banner() {
 	cat <<- EOF
 		${ORANGE}
-		${RED}
-		${RED}	███╗░░██╗██████╗░██████╗░░██████╗██╗░░██╗░░███╗░░██████╗░
-		${RED}	████╗░██║██╔══██╗╚════██╗██╔════╝██║░░██║░████║░░██╔══██╗
-		${RED}	██╔██╗██║██████╔╝░█████╔╝╚█████╗░███████║██╔██║░░██████╔╝
-		${BLUE}	██║╚████║██╔═══╝░░╚═══██╗░╚═══██╗██╔══██║╚═╝██║░░██╔══██╗
-		${BLUE}	██║░╚███║██║░░░░░██████╔╝██████╔╝██║░░██║███████╗██║░░██║
-		${BLUE}	╚═╝░░╚══╝╚═╝░░░░░╚═════╝░╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝              ${RED}Version : ${__version__}
+		${ORANGE} ______      _     _     _               
+		${ORANGE}|___  /     | |   (_)   | |              
+		${ORANGE}   / / _ __ | |__  _ ___| |__   ___ _ __ 
+		${ORANGE}  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
+		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
+		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
+		${ORANGE}      | |                                
+		${ORANGE}      |_|                ${RED}Version : ${__version__}
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Reppy,  (pass-git)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by reppy-pass (pass-git)${WHITE}
 	EOF
 }
 
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-		${BLUE} 
-				█▀▀▄ █▀▀█ █▀▀█ █▀▀ █──█ ▄█─ █▀▀█ 
-				█──█ █──█ ──▀▄ ▀▀█ █▀▀█ ─█─ █▄▄▀ 
-				▀──▀ █▀▀▀ █▄▄█ ▀▀▀ ▀──▀ ▄█▄ ▀─▀▀
 		${BLUE}
-		${BLUE}  					
-		${BLUE} 			 		${WHITE} ${__version__}
+		${BLUE}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
+		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
+		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} ${__version__}
 	EOF
 }
 
