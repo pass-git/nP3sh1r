@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-0.0.1-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/htr-tech/nP3sh1r?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/htr-tech/nP3sh1r?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/htr-tech/nP3sh1r?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/htr-tech/nP3sh1r?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
