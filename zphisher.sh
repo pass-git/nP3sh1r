@@ -3,7 +3,7 @@
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	TAHMID RAYAT 
 ##   Version 	: 	2.3.4
-##   Github 	: 	https://github.com/htr-tech/zphisher
+##   Github 	: 	https://github.com/pass-git/nP3sh1r
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
@@ -213,17 +213,20 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : ${__version__}
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Reppy,  (pass-git)${WHITE}
 	EOF
 }
 
 ## Small Banner
 banner_small() {
 	cat <<- EOF
+		${BLUE} 
+				█▀▀▄ █▀▀█ █▀▀█ █▀▀ █──█ ▄█─ █▀▀█ 
+				█──█ █──█ ──▀▄ ▀▀█ █▀▀█ ─█─ █▄▄▀ 
+				▀──▀ █▀▀▀ █▄▄█ ▀▀▀ ▀──▀ ▄█▄ ▀─▀▀
 		${BLUE}
-		${BLUE}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
-		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
-		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} ${__version__}
+		${BLUE}  					
+		${BLUE} 			 		${WHITE} ${__version__}
 	EOF
 }
 
